@@ -1,0 +1,40 @@
+{
+  "price": 175000,
+  "location": {
+    "CEP": 69036240,
+    "Munic\u00edpio": "Manaus",
+    "Bairro": "Compensa",
+    "Logradouro": "Rua Cec\u00edlia Bernardo Cabral"
+  },
+  "properties": {
+    "Categoria": "Apartamentos",
+    "Tipo": "Venda - apartamento padr\u00e3o",
+    "Condom\u00ednio": "R$ 110",
+    "IPTU": "R$ 85",
+    "\u00c1rea \u00fatil": "75m\u00b2",
+    "Quartos": "3",
+    "Banheiros": "2",
+    "Vagas na garagem": "2",
+    "Detalhes do im\u00f3vel": "Ar condicionado",
+    "Detalhes do condominio": "Portaria, Permitido animais, Condom\u00ednio fechado"
+  }
+},
+{
+  "price": 330000,
+  "location": {
+    "CEP": 69028360,
+    "Munic\u00edpio": "Manaus",
+    "Bairro": "Flores",
+    "Logradouro": "Rua S\u00e3o Judas Tadeu"
+  },
+  "properties": {
+    "Categoria": "Apartamentos",
+    "Tipo": "Venda - apartamento padr\u00e3o",
+    "Condom\u00ednio": "R$ 350",
+    "IPTU": "R$ 0",
+    "\u00c1rea \u00fatil": "79m\u00b2",
+    "Quartos": "3",
+    "Banheiros": "2",
+    "Vagas na garagem": "2"
+  }
+}

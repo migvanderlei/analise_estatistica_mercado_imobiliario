@@ -1,0 +1,63 @@
+Adrianópolis;Centro-Sul
+Aleixo;Centro-Sul
+Alvorada;Centro-Oeste
+Armando Mendes;Leste
+Betânia;Sul
+Cachoeirinha;Sul
+Centro;Sul
+Chapada;Centro-Sul
+Cidade de Deus;Norte
+Cidade Nova;Norte
+Colônia Antônio Aleixo;Leste
+Colônia Oliveira Machado;Sul
+Colônia Santo Antônio;Norte
+Colônia Terra Nova;Norte
+Compensa;Oeste
+Coroado;Leste
+Crespo;Sul
+Da Paz;Centro-Oeste
+Distrito Industrial I;Sul
+Distrito Industrial II;Leste
+Dom Pedro I;Centro-Oeste
+Educandos;Sul
+Flores;Centro-Sul
+Gilberto Mestrinho;Leste
+Glória;Oeste
+Japiim;Sul
+Jorge Teixeira;Leste
+Lago Azul;Norte
+Lírio do Vale;Oeste
+Mauazinho;Leste
+Monte das Oliveiras;Norte
+Morro da Liberdade;Sul
+Nossa Senhora Aparecida;Sul
+Nossa Senhora das Graças;Centro-Sul
+Nova Cidade;Norte
+Nova Esperança;Oeste
+Novo Aleixo;Norte
+Novo Israel;Norte
+Parque 10 de Novembro;Centro-Sul
+Petrópolis;Sul
+Planalto;Centro-Oeste
+Ponta Negra;Oeste
+Praça 14 de Janeiro;Sul
+Presidente Vargas;Sul
+Puraquequara;Leste
+Raiz;Sul
+Redenção;Centro-Oeste
+Santa Etelvina;Norte
+Santa Luzia;Sul
+Santo Agostinho;Oeste
+Santo Antônio;Oeste
+São Francisco;Sul
+São Geraldo;Centro-Sul
+São Jorge;Oeste
+São José Operário;Leste
+São Lázaro;Sul
+São Raimundo;Oeste
+Tancredo Neves;Leste
+Tarumã;Oeste
+Tarumã-Açu;Oeste
+Vila Buriti;Sul
+Vila da Prata;Oeste
+Zumbi dos Palmares;Leste
