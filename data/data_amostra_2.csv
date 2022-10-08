@@ -1,0 +1,391 @@
+,Unnamed: 0,valor,bairro,zona,categoria,area,qtde_quartos,qtde_vagas,qtde_banheiros
+3,4,450000.0,Adrianópolis,Centro-Sul,Apartamentos,120.0,3.0,2.0,2.0
+12,13,160000.0,Lago Azul,Norte,Apartamentos,60.0,3.0,1.0,2.0
+21,22,200129.0,Tarumã,Oeste,Apartamentos,70.0,2.0,1.0,1.0
+30,34,580000.0,Colônia Terra Nova,Norte,Casas,175.0,3.0,4.0,4.0
+39,43,1450000.0,Ponta Negra,Oeste,Casas,246.0,4.0,5.0,5.0
+48,52,2600000.0,Dom Pedro I,Centro-Oeste,Casas,415.0,3.0,4.0,5.0
+57,63,700000.0,Ponta Negra,Oeste,Casas,140.0,3.0,4.0,5.0
+66,72,350000.0,Da Paz,Centro-Oeste,Apartamentos,80.0,3.0,1.0,2.0
+75,81,400000.0,Parque 10 de Novembro,Centro-Sul,Casas,350.0,3.0,3.0,3.0
+84,90,1500000.0,Ponta Negra,Oeste,Casas,245.0,3.0,2.0,4.0
+93,100,180000.0,Tarumã-Açu,Oeste,Apartamentos,46.0,3.0,1.0,1.0
+102,110,190002.0,Zumbi dos Palmares,Leste,Apartamentos,44.0,2.0,1.0,1.0
+111,124,850000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,119.0,3.0,2.0,5.0
+120,136,1100001.0,Dom Pedro I,Centro-Oeste,Apartamentos,171.0,4.0,2.0,3.0
+129,150,1300000.0,Ponta Negra,Oeste,Apartamentos,169.0,3.0,3.0,4.0
+138,161,1600000.0,Ponta Negra,Oeste,Casas,600.0,4.0,4.0,4.0
+147,171,798000.0,Colônia Terra Nova,Norte,Casas,250.0,3.0,4.0,4.0
+157,183,380000.0,Flores,Centro-Sul,Apartamentos,120.0,3.0,2.0,2.0
+166,196,270000.0,Tarumã,Oeste,Casas,45.0,2.0,2.0,1.0
+175,207,110000.0,São Raimundo,Oeste,Apartamentos,48.0,2.0,5.0,1.0
+184,218,290000.0,Colônia Santo Antônio,Norte,Casas,81.0,2.0,2.0,3.0
+193,230,1200000.0,Aleixo,Centro-Sul,Apartamentos,155.0,3.0,3.0,5.0
+202,243,320000.0,Flores,Centro-Sul,Casas,90.0,3.0,2.0,1.0
+211,253,370000.0,Parque 10 de Novembro,Centro-Sul,Casas,100.0,3.0,2.0,1.0
+220,263,40000.0,Santa Etelvina,Norte,Apartamentos,42.0,2.0,1.0,1.0
+229,275,3300000.0,Ponta Negra,Oeste,Casas,400.0,4.0,4.0,1.0
+238,288,2300000.0,Adrianópolis,Centro-Sul,Apartamentos,260.0,4.0,3.0,5.0
+247,298,250000.0,Da Paz,Centro-Oeste,Casas,300.0,2.0,5.0,2.0
+256,310,85000.0,Nova Cidade,Norte,Casas,45.0,2.0,2.0,1.0
+265,319,330000.0,Ponta Negra,Oeste,Apartamentos,56.0,2.0,1.0,1.0
+274,328,167000.0,Tarumã,Oeste,Apartamentos,41.0,2.0,1.0,1.0
+283,340,140000.0,Nova Cidade,Norte,Casas,50.0,2.0,1.0,1.0
+292,351,269000.0,São José Operário,Leste,Apartamentos,71.0,3.0,1.0,2.0
+301,362,200000.0,Coroado,Leste,Casas,120.0,3.0,3.0,3.0
+310,377,745000.0,Aleixo,Centro-Sul,Casas,198.0,4.0,5.0,5.0
+319,389,2000000.0,Ponta Negra,Oeste,Casas,402.0,4.0,5.0,5.0
+328,399,244000.0,Lírio do Vale,Oeste,Casas,81.0,3.0,2.0,1.0
+337,411,231990.0,Ponta Negra,Oeste,Apartamentos,47.0,2.0,1.0,1.0
+346,423,890000.0,Dom Pedro I,Centro-Oeste,Apartamentos,133.0,3.0,2.0,3.0
+355,433,580000.0,Planalto,Centro-Oeste,Casas,164.0,2.0,3.0,2.0
+364,446,400000.0,Novo Aleixo,Norte,Casas,100.0,3.0,2.0,2.0
+373,455,45000.0,Nova Cidade,Norte,Casas,100.0,2.0,2.0,2.0
+382,470,454000.0,Flores,Centro-Sul,Apartamentos,79.0,3.0,2.0,2.0
+391,480,380248.0,Cidade Nova,Norte,Casas,80.0,3.0,2.0,2.0
+400,494,220130.0,Novo Aleixo,Norte,Casas,70.0,2.0,2.0,2.0
+409,508,380000.0,Tarumã-Açu,Oeste,Casas,87.0,3.0,2.0,1.0
+418,520,450000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,105.0,3.0,3.0,2.0
+427,533,160000.0,Cidade Nova,Norte,Apartamentos,42.0,2.0,1.0,1.0
+436,548,320050.0,Planalto,Centro-Oeste,Casas,450.0,3.0,3.0,1.0
+445,559,250000.0,Flores,Centro-Sul,Casas,54.0,2.0,2.0,2.0
+454,572,850000.0,Aleixo,Centro-Sul,Apartamentos,96.0,3.0,2.0,3.0
+463,587,1890000.0,Ponta Negra,Oeste,Casas,346.0,3.0,4.0,5.0
+472,596,300133.0,Planalto,Centro-Oeste,Casas,90.0,3.0,2.0,2.0
+481,609,600000.0,Cidade Nova,Norte,Casas,180.0,3.0,2.0,3.0
+491,622,232890.0,Ponta Negra,Oeste,Apartamentos,46.0,2.0,1.0,1.0
+500,631,120000.0,Tarumã-Açu,Oeste,Apartamentos,52.0,3.0,1.0,1.0
+509,643,2350000.0,Flores,Centro-Sul,Casas,750.0,4.0,5.0,5.0
+518,653,260000.0,Cidade Nova,Norte,Casas,80.0,3.0,3.0,2.0
+527,664,350000.0,Flores,Centro-Sul,Apartamentos,84.0,3.0,2.0,2.0
+536,682,950000.0,Ponta Negra,Oeste,Apartamentos,133.0,3.0,2.0,5.0
+546,697,1150000.0,Ponta Negra,Oeste,Apartamentos,113.0,3.0,2.0,3.0
+555,709,162000.0,Gilberto Mestrinho,Leste,Apartamentos,43.0,2.0,1.0,2.0
+564,720,150000.0,Coroado,Leste,Casas,204.0,2.0,3.0,2.0
+573,732,450000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,90.0,3.0,2.0,3.0
+582,741,200000.0,Cidade Nova,Norte,Casas,70.0,3.0,3.0,2.0
+591,756,1900000.0,Ponta Negra,Oeste,Casas,240.0,4.0,4.0,5.0
+600,766,1200000.0,Ponta Negra,Oeste,Casas,220.0,3.0,4.0,5.0
+609,777,5000000.0,Ponta Negra,Oeste,Casas,800.0,4.0,4.0,5.0
+618,787,145000.0,Tarumã,Oeste,Apartamentos,41.0,2.0,1.0,1.0
+627,801,2300000.0,Ponta Negra,Oeste,Casas,364.0,4.0,5.0,5.0
+636,810,86137.0,Flores,Centro-Sul,Apartamentos,42.0,2.0,1.0,1.0
+645,820,310000.0,Tarumã-Açu,Oeste,Casas,60.0,3.0,1.0,2.0
+654,830,1330000.0,Adrianópolis,Centro-Sul,Apartamentos,178.0,4.0,4.0,4.0
+663,843,3900000.0,Chapada,Centro-Sul,Casas,400.0,5.0,4.0,5.0
+672,857,2500000.0,Adrianópolis,Centro-Sul,Apartamentos,215.0,3.0,5.0,4.0
+681,867,1500000.0,Ponta Negra,Oeste,Casas,360.0,3.0,4.0,3.0
+690,881,580000.0,Dom Pedro I,Centro-Oeste,Casas,200.0,3.0,2.0,4.0
+699,893,950000.0,Flores,Centro-Sul,Casas,200.0,4.0,2.0,5.0
+708,906,1480000.0,Adrianópolis,Centro-Sul,Apartamentos,140.0,3.0,2.0,4.0
+717,916,275000.0,Novo Aleixo,Norte,Apartamentos,94.0,2.0,2.0,1.0
+726,926,100000.0,Nova Cidade,Norte,Casas,120.0,2.0,1.0,2.0
+735,935,600132.0,Aleixo,Centro-Sul,Casas,150.0,3.0,2.0,4.0
+744,944,230000.0,Chapada,Centro-Sul,Apartamentos,60.0,2.0,1.0,1.0
+753,961,350000.0,Cidade Nova,Norte,Casas,300.0,3.0,2.0,2.0
+762,973,300000.0,Cidade Nova,Norte,Casas,250.0,3.0,2.0,2.0
+771,986,4200000.0,Chapada,Centro-Sul,Casas,380.0,5.0,4.0,5.0
+780,998,680000.0,Dom Pedro I,Centro-Oeste,Apartamentos,99.0,3.0,2.0,3.0
+789,1009,1900003.0,Ponta Negra,Oeste,Apartamentos,185.0,4.0,3.0,5.0
+798,1018,1600001.0,Ponta Negra,Oeste,Casas,250.0,4.0,4.0,5.0
+807,1028,170000.0,Adrianópolis,Centro-Sul,Apartamentos,58.0,2.0,1.0,1.0
+816,1037,610000.0,Tarumã,Oeste,Casas,100.0,2.0,5.0,3.0
+825,1048,450000.0,Alvorada,Centro-Oeste,Casas,200.0,3.0,2.0,3.0
+835,1064,300000.0,Planalto,Centro-Oeste,Casas,75.0,3.0,2.0,1.0
+844,1075,451000.0,Tarumã-Açu,Oeste,Casas,72.0,3.0,2.0,2.0
+853,1089,590000.0,Ponta Negra,Oeste,Casas,124.0,3.0,2.0,4.0
+862,1098,4500000.0,Adrianópolis,Centro-Sul,Apartamentos,414.0,3.0,5.0,4.0
+871,1109,350000.0,Chapada,Centro-Sul,Apartamentos,78.0,2.0,1.0,2.0
+880,1119,426000.0,Flores,Centro-Sul,Casas,213.0,4.0,4.0,4.0
+889,1133,450000.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,62.0,1.0,5.0,2.0
+898,1146,350000.0,Colônia Oliveira Machado,Sul,Casas,260.0,2.0,3.0,1.0
+907,1160,200000.0,Novo Aleixo,Norte,Casas,236.0,2.0,2.0,1.0
+916,1173,270130.0,Flores,Centro-Sul,Casas,70.0,2.0,2.0,2.0
+925,1182,250000.0,Flores,Centro-Sul,Casas,90.0,3.0,2.0,1.0
+935,1197,175000.0,Planalto,Centro-Oeste,Apartamentos,38.0,2.0,1.0,1.0
+944,1209,375000.0,Flores,Centro-Sul,Casas,162.0,2.0,2.0,3.0
+953,1220,180000.0,Chapada,Centro-Sul,Apartamentos,60.0,2.0,1.0,1.0
+962,1229,300000.0,Lírio do Vale,Oeste,Casas,375.0,3.0,2.0,2.0
+971,1238,2700000.0,Parque 10 de Novembro,Centro-Sul,Casas,590.0,5.0,4.0,5.0
+980,1252,780000.0,Parque 10 de Novembro,Centro-Sul,Casas,156.0,3.0,4.0,1.0
+989,1263,7500000.0,Ponta Negra,Oeste,Casas,1129.0,5.0,0.0,5.0
+998,1272,320000.0,Coroado,Leste,Casas,500.0,5.0,3.0,4.0
+1007,1284,2939925.0,Adrianópolis,Centro-Sul,Apartamentos,220.0,4.0,4.0,5.0
+1016,1294,280000.0,Novo Aleixo,Norte,Casas,230.0,5.0,2.0,5.0
+1025,1306,730000.0,Cachoeirinha,Sul,Casas,306.0,4.0,5.0,3.0
+1034,1319,574500.0,Ponta Negra,Oeste,Apartamentos,85.0,3.0,2.0,2.0
+1043,1331,180000.0,Flores,Centro-Sul,Casas,76.0,3.0,3.0,2.0
+1052,1345,70000.0,Nova Cidade,Norte,Casas,70.0,2.0,3.0,1.0
+1061,1355,900000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,155.0,3.0,3.0,3.0
+1070,1365,250000.0,Novo Aleixo,Norte,Casas,54.0,2.0,2.0,2.0
+1079,1375,650000.0,Dom Pedro I,Centro-Oeste,Apartamentos,100.0,3.0,2.0,2.0
+1088,1386,95000.0,Nova Cidade,Norte,Casas,128.0,2.0,2.0,2.0
+1097,1397,270099.0,Flores,Centro-Sul,Casas,75.0,2.0,2.0,2.0
+1106,1406,680000.0,Adrianópolis,Centro-Sul,Apartamentos,96.0,3.0,2.0,3.0
+1115,1415,270000.0,Flores,Centro-Sul,Casas,65.0,2.0,2.0,2.0
+1124,1426,480000.0,Ponta Negra,Oeste,Apartamentos,81.0,3.0,1.0,2.0
+1133,1437,50000.0,Colônia Terra Nova,Norte,Casas,50.0,2.0,2.0,1.0
+1142,1450,900000.0,Flores,Centro-Sul,Casas,213.0,3.0,3.0,3.0
+1151,1463,282580.0,Ponta Negra,Oeste,Apartamentos,53.0,2.0,1.0,2.0
+1160,1475,509000.0,Flores,Centro-Sul,Apartamentos,84.0,3.0,2.0,1.0
+1169,1485,880000.0,Adrianópolis,Centro-Sul,Apartamentos,131.0,3.0,2.0,4.0
+1178,1495,1400000.0,Ponta Negra,Oeste,Apartamentos,169.0,4.0,3.0,4.0
+1187,1512,1800001.0,Chapada,Centro-Sul,Casas,220.0,3.0,3.0,4.0
+1196,1522,1300000.0,Ponta Negra,Oeste,Apartamentos,134.0,3.0,2.0,4.0
+1205,1535,520000.0,Tarumã-Açu,Oeste,Casas,120.0,3.0,3.0,3.0
+1214,1545,970030.0,Ponta Negra,Oeste,Apartamentos,141.0,3.0,2.0,3.0
+1223,1555,190000.0,Centro,Sul,Apartamentos,55.0,1.0,1.0,1.0
+1232,1568,1250000.0,Colônia Terra Nova,Norte,Casas,286.0,3.0,2.0,3.0
+1241,1580,250000.0,Santa Etelvina,Norte,Casas,60.0,2.0,5.0,2.0
+1250,1593,244200.0,Lírio do Vale,Oeste,Casas,88.0,3.0,2.0,2.0
+1259,1604,850000.0,Ponta Negra,Oeste,Casas,155.0,3.0,2.0,4.0
+1268,1613,3000000.0,Ponta Negra,Oeste,Casas,800.0,4.0,4.0,5.0
+1277,1629,1500000.0,Colônia Santo Antônio,Norte,Casas,1000.0,5.0,5.0,5.0
+1286,1638,220000.0,Novo Aleixo,Norte,Casas,120.0,2.0,1.0,3.0
+1295,1649,600000.0,Ponta Negra,Oeste,Apartamentos,88.0,3.0,2.0,3.0
+1304,1660,400000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,117.0,4.0,1.0,3.0
+1313,1670,750000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,127.0,3.0,2.0,4.0
+1322,1679,850000.0,Tarumã,Oeste,Casas,764.0,5.0,5.0,2.0
+1331,1693,4900000.0,Chapada,Centro-Sul,Apartamentos,500.0,3.0,4.0,4.0
+1340,1709,270000.0,Cidade Nova,Norte,Casas,2478.0,3.0,1.0,1.0
+1349,1722,160400.0,Flores,Centro-Sul,Apartamentos,42.0,2.0,1.0,1.0
+1358,1733,160122.0,Flores,Centro-Sul,Casas,70.0,2.0,2.0,2.0
+1367,1744,320000.0,Santo Antônio,Oeste,Apartamentos,65.0,2.0,1.0,2.0
+1376,1753,750000.0,Ponta Negra,Oeste,Casas,250.0,3.0,4.0,4.0
+1385,1763,950000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,129.0,3.0,2.0,4.0
+1394,1777,250000.0,Flores,Centro-Sul,Casas,90.0,3.0,2.0,1.0
+1403,1788,1100000.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,200.0,4.0,3.0,4.0
+1412,1801,380000.0,Flores,Centro-Sul,Apartamentos,75.0,3.0,2.0,2.0
+1421,1822,424000.0,Dom Pedro I,Centro-Oeste,Apartamentos,64.0,2.0,1.0,2.0
+1430,1831,950000.0,Ponta Negra,Oeste,Apartamentos,134.0,3.0,2.0,4.0
+1439,1840,700000.0,Colônia Terra Nova,Norte,Casas,170.0,3.0,4.0,3.0
+1448,1853,125000.0,Cidade Nova,Norte,Casas,58.0,4.0,2.0,2.0
+1457,1862,600000.0,Nossa Senhora das Graças,Centro-Sul,Casas,400.0,5.0,5.0,5.0
+1466,1875,5500000.0,Ponta Negra,Oeste,Casas,680.0,5.0,5.0,5.0
+1475,1887,880000.0,Dom Pedro I,Centro-Oeste,Casas,300.0,5.0,2.0,5.0
+1484,1899,400000.0,Japiim,Sul,Casas,300.0,3.0,3.0,4.0
+1494,1912,495000.0,Flores,Centro-Sul,Casas,200.0,3.0,5.0,4.0
+1503,1923,319000.0,Dom Pedro I,Centro-Oeste,Apartamentos,56.0,3.0,2.0,2.0
+1512,1936,55000.0,Monte das Oliveiras,Norte,Apartamentos,44.0,2.0,1.0,1.0
+1521,1949,3500000.0,Ponta Negra,Oeste,Casas,409.0,4.0,2.0,4.0
+1530,1960,2200000.0,Ponta Negra,Oeste,Casas,450.0,3.0,5.0,4.0
+1539,1972,490000.0,Santo Agostinho,Oeste,Casas,185.0,3.0,3.0,2.0
+1548,1982,190000.0,Flores,Centro-Sul,Apartamentos,58.0,2.0,1.0,1.0
+1557,1992,750000.0,Ponta Negra,Oeste,Apartamentos,132.0,4.0,2.0,5.0
+1566,2003,371001.0,Flores,Centro-Sul,Apartamentos,60.0,2.0,2.0,2.0
+1575,2016,490000.0,Tarumã,Oeste,Casas,150.0,3.0,5.0,1.0
+1584,2028,390000.0,Flores,Centro-Sul,Casas,70.0,2.0,1.0,2.0
+1593,2038,4500020.0,Adrianópolis,Centro-Sul,Casas,500.0,5.0,4.0,5.0
+1602,2050,180268.0,Novo Aleixo,Norte,Casas,80.0,2.0,2.0,2.0
+1611,2061,140000.0,Tarumã,Oeste,Casas,172.0,3.0,1.0,1.0
+1620,2073,450000.0,Planalto,Centro-Oeste,Casas,366.0,4.0,4.0,5.0
+1629,2084,180358.0,Novo Aleixo,Norte,Casas,80.0,2.0,2.0,2.0
+1638,2095,320000.0,Ponta Negra,Oeste,Apartamentos,68.0,2.0,1.0,2.0
+1647,2105,290010.0,Aleixo,Centro-Sul,Apartamentos,94.0,3.0,2.0,2.0
+1656,2116,690000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,131.0,3.0,2.0,5.0
+1665,2127,900000.0,Tarumã,Oeste,Casas,170.0,3.0,4.0,4.0
+1674,2139,244001.0,Lírio do Vale,Oeste,Casas,81.0,3.0,2.0,1.0
+1683,2150,4000000.0,Ponta Negra,Oeste,Casas,1000.0,5.0,5.0,5.0
+1692,2161,600000.0,Cidade Nova,Norte,Casas,500.0,5.0,3.0,5.0
+1701,2171,270000.0,Parque 10 de Novembro,Centro-Sul,Casas,58.0,2.0,2.0,2.0
+1710,2183,410000.0,Petrópolis,Sul,Casas,170.0,3.0,3.0,3.0
+1720,2193,630000.0,Aleixo,Centro-Sul,Apartamentos,92.0,3.0,2.0,3.0
+1729,2203,590000.0,Flores,Centro-Sul,Casas,142.0,3.0,2.0,1.0
+1738,2216,3200000.0,Chapada,Centro-Sul,Casas,370.0,1.0,4.0,5.0
+1747,2228,1200001.0,Chapada,Centro-Sul,Casas,280.0,4.0,4.0,5.0
+1756,2243,1300000.0,Ponta Negra,Oeste,Casas,275.0,5.0,5.0,5.0
+1765,2257,455000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,67.0,2.0,5.0,2.0
+1774,2269,160130.0,Flores,Centro-Sul,Casas,70.0,2.0,2.0,2.0
+1783,2280,165000.0,Lírio do Vale,Oeste,Apartamentos,200.0,2.0,4.0,2.0
+1793,2295,1600000.0,Ponta Negra,Oeste,Casas,350.0,3.0,4.0,2.0
+1802,2306,270129.0,Flores,Centro-Sul,Casas,70.0,2.0,2.0,2.0
+1811,2316,630000.0,Cidade Nova,Norte,Casas,140.0,3.0,2.0,1.0
+1820,2326,1600000.0,Ponta Negra,Oeste,Apartamentos,134.0,3.0,2.0,4.0
+1829,2336,180000.0,Nova Cidade,Norte,Casas,130.0,2.0,3.0,2.0
+1838,2346,300000.0,Santo Antônio,Oeste,Apartamentos,80.0,2.0,1.0,2.0
+1847,2358,244050.0,Lírio do Vale,Oeste,Casas,81.0,3.0,2.0,1.0
+1856,2368,370000.0,Flores,Centro-Sul,Apartamentos,83.0,3.0,1.0,2.0
+1866,2379,220000.0,Tarumã,Oeste,Apartamentos,56.0,3.0,1.0,1.0
+1875,2388,830000.0,Ponta Negra,Oeste,Casas,250.0,3.0,4.0,3.0
+1884,2403,620000.0,Ponta Negra,Oeste,Casas,144.0,3.0,2.0,3.0
+1893,2413,850000.0,Aleixo,Centro-Sul,Apartamentos,117.0,3.0,2.0,3.0
+1902,2422,300000.0,Flores,Centro-Sul,Casas,76.0,2.0,1.0,3.0
+1911,2434,1600000.0,Ponta Negra,Oeste,Casas,260.0,4.0,4.0,5.0
+1920,2445,480000.0,Ponta Negra,Oeste,Apartamentos,130.0,3.0,2.0,2.0
+1929,2454,55000.0,Lago Azul,Norte,Apartamentos,45.0,2.0,1.0,1.0
+1938,2468,450000.0,Colônia Santo Antônio,Norte,Apartamentos,85.0,3.0,2.0,2.0
+1947,2477,335000.0,Chapada,Centro-Sul,Apartamentos,60.0,2.0,1.0,1.0
+1956,2490,1600000.0,Ponta Negra,Oeste,Casas,350.0,3.0,4.0,5.0
+1965,2502,330000.0,Aleixo,Centro-Sul,Apartamentos,56.0,2.0,1.0,2.0
+1974,2513,1500132.0,Ponta Negra,Oeste,Casas,170.0,3.0,2.0,4.0
+1983,2527,155000.0,Alvorada,Centro-Oeste,Casas,126.0,2.0,1.0,1.0
+1992,2539,248300.0,Planalto,Centro-Oeste,Apartamentos,51.0,2.0,1.0,2.0
+2002,2554,2000000.0,Ponta Negra,Oeste,Casas,600.0,4.0,0.0,5.0
+2011,2564,550000.0,Japiim,Sul,Casas,300.0,3.0,4.0,3.0
+2020,2574,450000.0,Ponta Negra,Oeste,Apartamentos,88.0,3.0,2.0,3.0
+2029,2587,750000.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,165.0,4.0,2.0,4.0
+2038,2599,270000.0,Novo Aleixo,Norte,Casas,200.0,3.0,3.0,2.0
+2047,2610,265008.0,Cidade Nova,Norte,Casas,78.0,3.0,2.0,2.0
+2056,2620,300000.0,Petrópolis,Sul,Casas,92.0,3.0,1.0,3.0
+2065,2630,1900000.0,Ponta Negra,Oeste,Casas,700.0,5.0,4.0,5.0
+2074,2643,3500000.0,Aleixo,Centro-Sul,Casas,450.0,3.0,4.0,5.0
+2083,2659,1550021.0,Ponta Negra,Oeste,Casas,246.0,4.0,4.0,5.0
+2092,2673,280000.0,Flores,Centro-Sul,Casas,450.0,3.0,4.0,1.0
+2101,2686,80000.0,Nova Cidade,Norte,Casas,180.0,2.0,2.0,2.0
+2110,2697,100000.0,Cidade Nova,Norte,Casas,350.0,3.0,3.0,2.0
+2119,2707,190000.0,Tarumã-Açu,Oeste,Apartamentos,53.0,3.0,1.0,1.0
+2128,2720,1000000.0,Ponta Negra,Oeste,Casas,153.0,1.0,4.0,3.0
+2137,2730,2190000.0,Ponta Negra,Oeste,Apartamentos,169.0,3.0,3.0,4.0
+2146,2742,400077.0,Novo Aleixo,Norte,Casas,104.0,3.0,2.0,2.0
+2155,2753,610000.0,Ponta Negra,Oeste,Casas,267.0,3.0,4.0,2.0
+2164,2766,500000.0,Santo Agostinho,Oeste,Apartamentos,85.0,3.0,1.0,3.0
+2173,2776,417000.0,Novo Aleixo,Norte,Casas,384.0,5.0,5.0,3.0
+2182,2786,499999.0,Cidade Nova,Norte,Casas,270.0,4.0,3.0,2.0
+2191,2798,520000.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,63.0,1.0,0.0,2.0
+2200,2809,859999.0,Tarumã,Oeste,Casas,180.0,3.0,4.0,5.0
+2209,2826,120000.0,Jorge Teixeira,Leste,Casas,70.0,3.0,2.0,2.0
+2218,2835,430000.0,Dom Pedro I,Centro-Oeste,Apartamentos,56.0,1.0,1.0,1.0
+2227,2845,730000.0,Aleixo,Centro-Sul,Apartamentos,106.0,3.0,2.0,3.0
+2236,2855,4500000.0,Ponta Negra,Oeste,Casas,1600.0,4.0,5.0,5.0
+2245,2867,1100000.0,Adrianópolis,Centro-Sul,Apartamentos,147.0,3.0,2.0,4.0
+2254,2877,850000.0,Colônia Terra Nova,Norte,Casas,308.0,4.0,4.0,5.0
+2263,2889,258000.0,Flores,Centro-Sul,Casas,81.0,3.0,2.0,1.0
+2273,2906,424000.0,Parque 10 de Novembro,Centro-Sul,Casas,143.0,2.0,2.0,2.0
+2282,2917,700000.0,Aleixo,Centro-Sul,Casas,175.0,3.0,2.0,2.0
+2291,2930,250000.0,Flores,Centro-Sul,Casas,90.0,3.0,2.0,1.0
+2300,2945,180010.0,São José Operário,Leste,Apartamentos,55.0,2.0,1.0,1.0
+2309,2954,370001.0,Novo Aleixo,Norte,Casas,101.0,3.0,3.0,2.0
+2318,2965,370000.0,Ponta Negra,Oeste,Apartamentos,80.0,3.0,1.0,2.0
+2327,2978,2600000.0,Ponta Negra,Oeste,Casas,335.0,4.0,4.0,4.0
+2336,2990,950000.0,Gilberto Mestrinho,Leste,Casas,207.0,4.0,2.0,4.0
+2346,3003,600000.0,Ponta Negra,Oeste,Apartamentos,88.0,3.0,2.0,2.0
+2355,3019,4500000.0,Adrianópolis,Centro-Sul,Casas,500.0,5.0,5.0,5.0
+2364,3034,750000.0,Adrianópolis,Centro-Sul,Apartamentos,140.0,3.0,3.0,5.0
+2373,3045,3200000.0,Chapada,Centro-Sul,Casas,370.0,5.0,4.0,5.0
+2382,3058,280000.0,Cidade Nova,Norte,Casas,200.0,4.0,3.0,3.0
+2391,3071,1400000.0,Flores,Centro-Sul,Casas,317.0,2.0,2.0,2.0
+2400,3085,1100000.0,Ponta Negra,Oeste,Casas,150.0,3.0,4.0,3.0
+2409,3099,285000.0,Cidade Nova,Norte,Casas,170.0,4.0,2.0,2.0
+2418,3112,380000.0,Dom Pedro I,Centro-Oeste,Casas,130.0,2.0,3.0,2.0
+2427,3123,280000.0,Colônia Terra Nova,Norte,Apartamentos,60.0,2.0,1.0,2.0
+2436,3137,322990.0,Planalto,Centro-Oeste,Apartamentos,59.0,2.0,1.0,2.0
+2445,3146,160000.0,Tarumã,Oeste,Apartamentos,57.0,3.0,1.0,1.0
+2454,3156,207490.0,Planalto,Centro-Oeste,Apartamentos,43.0,2.0,1.0,1.0
+2463,3166,210390.0,Planalto,Centro-Oeste,Apartamentos,43.0,2.0,1.0,1.0
+2472,3176,750001.0,Ponta Negra,Oeste,Apartamentos,150.0,4.0,2.0,2.0
+2481,3187,1550000.0,Adrianópolis,Centro-Sul,Apartamentos,280.0,4.0,4.0,5.0
+2490,3202,65000.0,Santa Etelvina,Norte,Apartamentos,49.0,2.0,0.0,1.0
+2499,3213,1000000.0,Flores,Centro-Sul,Casas,200.0,3.0,4.0,5.0
+2508,3224,1850000.0,Adrianópolis,Centro-Sul,Apartamentos,300.0,4.0,4.0,5.0
+2517,3235,550000.0,Flores,Centro-Sul,Apartamentos,120.0,3.0,2.0,4.0
+2526,3246,180000.0,Colônia Terra Nova,Norte,Casas,160.0,1.0,5.0,1.0
+2535,3256,509694.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,163.0,4.0,3.0,4.0
+2544,3265,2500000.0,Ponta Negra,Oeste,Casas,380.0,3.0,5.0,5.0
+2553,3281,480000.0,Planalto,Centro-Oeste,Casas,630.0,5.0,4.0,2.0
+2562,3294,2000000.0,Ponta Negra,Oeste,Casas,497.0,5.0,5.0,5.0
+2571,3305,1700000.0,Ponta Negra,Oeste,Casas,260.0,4.0,4.0,5.0
+2580,3315,1335000.0,Adrianópolis,Centro-Sul,Apartamentos,147.0,3.0,2.0,2.0
+2589,3325,180000.0,Cidade de Deus,Norte,Casas,90.0,2.0,4.0,2.0
+2598,3335,1300000.0,Adrianópolis,Centro-Sul,Apartamentos,230.0,3.0,2.0,2.0
+2607,3345,250000.0,Lírio do Vale,Oeste,Apartamentos,42.0,2.0,1.0,1.0
+2616,3357,1500000.0,Tarumã-Açu,Oeste,Casas,2100.0,5.0,5.0,5.0
+2625,3367,3800000.0,Parque 10 de Novembro,Centro-Sul,Casas,630.0,5.0,4.0,5.0
+2634,3378,580000.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,161.0,4.0,2.0,3.0
+2643,3390,250000.0,Cidade Nova,Norte,Casas,100.0,2.0,4.0,3.0
+2652,3402,450000.0,São Raimundo,Oeste,Casas,200.0,4.0,3.0,4.0
+2661,3414,1430000.0,Ponta Negra,Oeste,Apartamentos,153.0,3.0,3.0,4.0
+2670,3424,2500000.0,Flores,Centro-Sul,Casas,335.0,3.0,2.0,1.0
+2679,3436,1500000.0,Ponta Negra,Oeste,Apartamentos,169.0,3.0,3.0,4.0
+2688,3445,300000.0,São José Operário,Leste,Apartamentos,69.0,3.0,1.0,2.0
+2697,3454,890000.0,Praça 14 de Janeiro,Sul,Apartamentos,360.0,4.0,3.0,5.0
+2706,3464,900000.0,Ponta Negra,Oeste,Casas,170.0,3.0,4.0,4.0
+2715,3476,65000.0,Tarumã,Oeste,Apartamentos,42.0,2.0,1.0,1.0
+2724,3488,260000.0,Cidade Nova,Norte,Casas,140.0,3.0,1.0,2.0
+2733,3499,2000037.0,Ponta Negra,Oeste,Casas,600.0,4.0,5.0,5.0
+2742,3509,700000.0,Colônia Terra Nova,Norte,Casas,170.0,3.0,4.0,1.0
+2751,3519,450000.0,Praça 14 de Janeiro,Sul,Casas,235.0,3.0,1.0,1.0
+2760,3530,320091.0,Planalto,Centro-Oeste,Casas,444.0,4.0,3.0,2.0
+2769,3542,900000.0,Ponta Negra,Oeste,Casas,170.0,3.0,4.0,1.0
+2778,3554,490000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,79.0,3.0,2.0,2.0
+2787,3565,850000.0,Tarumã,Oeste,Casas,300.0,3.0,2.0,3.0
+2796,3577,65000.0,Centro,Sul,Casas,30.0,3.0,1.0,1.0
+2805,3589,180000.0,Dom Pedro I,Centro-Oeste,Casas,300.0,3.0,3.0,3.0
+2814,3600,1500000.0,Nossa Senhora das Graças,Centro-Sul,Casas,210.0,4.0,3.0,3.0
+2823,3614,145000.0,Tarumã-Açu,Oeste,Apartamentos,42.0,2.0,1.0,1.0
+2832,3625,170000.0,Nova Esperança,Oeste,Casas,120.0,3.0,2.0,2.0
+2841,3635,180000.0,Tarumã,Oeste,Apartamentos,43.0,2.0,1.0,1.0
+2850,3645,260000.0,Alvorada,Centro-Oeste,Casas,120.0,3.0,2.0,2.0
+2859,3656,739900.0,São Jorge,Oeste,Apartamentos,113.0,3.0,2.0,3.0
+2868,3671,900000.0,Ponta Negra,Oeste,Casas,275.0,3.0,3.0,4.0
+2877,3681,320000.0,Colônia Santo Antônio,Norte,Casas,88.0,3.0,2.0,3.0
+2886,3692,370000.0,Parque 10 de Novembro,Centro-Sul,Casas,80.0,2.0,2.0,2.0
+2895,3701,330000.0,Alvorada,Centro-Oeste,Casas,360.0,3.0,1.0,2.0
+2904,3712,850000.0,Tarumã,Oeste,Casas,350.0,3.0,0.0,5.0
+2913,3722,1650000.0,Ponta Negra,Oeste,Casas,280.0,4.0,4.0,5.0
+2922,3734,750000.0,Dom Pedro I,Centro-Oeste,Apartamentos,113.0,3.0,2.0,4.0
+2931,3744,595000.0,Santo Agostinho,Oeste,Casas,180.0,2.0,2.0,2.0
+2940,3753,500000.0,Centro,Sul,Casas,350.0,5.0,3.0,5.0
+2949,3763,215000.0,Planalto,Centro-Oeste,Apartamentos,52.0,3.0,1.0,1.0
+2958,3773,300000.0,Planalto,Centro-Oeste,Casas,500.0,3.0,3.0,3.0
+2967,3784,260000.0,São Francisco,Sul,Apartamentos,70.0,3.0,1.0,2.0
+2976,3794,150000.0,Crespo,Sul,Apartamentos,32.0,1.0,1.0,1.0
+2985,3807,465000.0,Ponta Negra,Oeste,Apartamentos,88.0,3.0,1.0,3.0
+2994,3825,420000.0,Colônia Santo Antônio,Norte,Apartamentos,85.0,3.0,2.0,2.0
+3003,3835,600129.0,Aleixo,Centro-Sul,Casas,150.0,3.0,2.0,4.0
+3012,3846,330000.0,Ponta Negra,Oeste,Apartamentos,55.0,2.0,1.0,1.0
+3021,3859,550000.0,Alvorada,Centro-Oeste,Casas,175.0,4.0,3.0,2.0
+3030,3870,550000.0,Dom Pedro I,Centro-Oeste,Casas,100.0,3.0,3.0,2.0
+3039,3882,189990.0,Planalto,Centro-Oeste,Apartamentos,38.0,2.0,1.0,1.0
+3048,3895,249000.0,Dom Pedro I,Centro-Oeste,Casas,122.0,3.0,2.0,2.0
+3057,3904,450000.0,Colônia Santo Antônio,Norte,Apartamentos,78.0,3.0,2.0,2.0
+3066,3914,790000.0,Novo Aleixo,Norte,Casas,160.0,4.0,4.0,5.0
+3075,3925,860000.0,Flores,Centro-Sul,Casas,240.0,4.0,4.0,4.0
+3084,3935,150000.0,Nova Cidade,Norte,Casas,128.0,3.0,2.0,2.0
+3093,3949,250000.0,Flores,Centro-Sul,Apartamentos,52.0,2.0,1.0,2.0
+3102,3963,2000000.0,Aleixo,Centro-Sul,Apartamentos,270.0,5.0,4.0,5.0
+3111,3977,550000.0,Alvorada,Centro-Oeste,Casas,212.0,5.0,3.0,4.0
+3120,3987,170000.0,Tarumã-Açu,Oeste,Apartamentos,70.0,2.0,1.0,2.0
+3129,4004,400000.0,Flores,Centro-Sul,Apartamentos,96.0,3.0,2.0,3.0
+3138,4015,1500000.0,Ponta Negra,Oeste,Casas,226.0,3.0,2.0,5.0
+3147,4028,899000.0,Chapada,Centro-Sul,Casas,350.0,3.0,2.0,2.0
+3156,4040,899000.0,Tarumã,Oeste,Casas,177.0,3.0,4.0,4.0
+3165,4051,280000.0,Nova Cidade,Norte,Casas,170.0,3.0,1.0,1.0
+3174,4067,300020.0,Flores,Centro-Sul,Casas,60.0,2.0,2.0,1.0
+3183,4082,3800000.0,Tarumã,Oeste,Casas,630.0,5.0,4.0,5.0
+3192,4094,850000.0,Adrianópolis,Centro-Sul,Apartamentos,110.0,3.0,2.0,4.0
+3201,4105,345345.0,Ponta Negra,Oeste,Casas,60.0,2.0,2.0,3.0
+3210,4116,265000.0,Raiz,Sul,Casas,90.0,2.0,1.0,2.0
+3219,4129,350000.0,Cidade Nova,Norte,Casas,150.0,4.0,2.0,4.0
+3228,4139,500000.0,Dom Pedro I,Centro-Oeste,Apartamentos,98.0,3.0,2.0,2.0
+3237,4150,270000.0,Compensa,Oeste,Casas,314.0,4.0,2.0,4.0
+3246,4162,343240.0,Ponta Negra,Oeste,Casas,59.0,2.0,1.0,2.0
+3255,4173,300000.0,Cidade Nova,Norte,Casas,300.0,3.0,3.0,2.0
+3264,4186,320000.0,Ponta Negra,Oeste,Apartamentos,60.0,2.0,1.0,1.0
+3273,4198,850000.0,Ponta Negra,Oeste,Casas,142.0,3.0,4.0,4.0
+3282,4208,3600000.0,Tarumã,Oeste,Casas,522.0,4.0,4.0,5.0
+3291,4219,230000.0,Flores,Centro-Sul,Casas,60.0,2.0,1.0,1.0
+3300,4230,350065.0,Alvorada,Centro-Oeste,Casas,90.0,3.0,2.0,2.0
+3309,4242,990000.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,223.0,5.0,3.0,4.0
+3318,4256,250000.0,Flores,Centro-Sul,Casas,113.0,2.0,2.0,2.0
+3327,4268,310000.0,Alvorada,Centro-Oeste,Apartamentos,60.0,3.0,1.0,2.0
+3336,4279,730000.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,150.0,4.0,2.0,4.0
+3345,4290,280131.0,Novo Aleixo,Norte,Casas,90.0,3.0,2.0,2.0
+3354,4305,420000.0,Parque 10 de Novembro,Centro-Sul,Apartamentos,96.0,3.0,1.0,3.0
+3363,4316,340000.0,Nossa Senhora das Graças,Centro-Sul,Apartamentos,72.0,1.0,2.0,1.0
+3372,4327,380000.0,Flores,Centro-Sul,Casas,109.0,3.0,2.0,2.0
+3381,4338,390000.0,Parque 10 de Novembro,Centro-Sul,Casas,160.0,5.0,1.0,3.0
+3390,4348,290030.0,Colônia Santo Antônio,Norte,Casas,81.0,2.0,1.0,2.0
+3399,4360,265999.0,Cidade Nova,Norte,Casas,85.0,3.0,3.0,2.0
+3408,4371,320000.0,Cidade de Deus,Norte,Casas,450.0,5.0,3.0,4.0
+3417,4381,500000.0,Colônia Terra Nova,Norte,Casas,300.0,3.0,4.0,5.0
+3426,4392,230000.0,Japiim,Sul,Apartamentos,72.0,3.0,1.0,1.0
+3435,4404,100000.0,Vila da Prata,Oeste,Casas,111.0,2.0,1.0,2.0
+3444,4416,1350000.0,Ponta Negra,Oeste,Casas,240.0,3.0,3.0,3.0
+3453,4425,249006.0,Dom Pedro I,Centro-Oeste,Casas,122.0,3.0,2.0,2.0
+3462,4435,290000.0,Cidade Nova,Norte,Casas,82.0,3.0,3.0,2.0
+3471,4447,600131.0,Aleixo,Centro-Sul,Casas,150.0,3.0,2.0,4.0
+3480,4459,80000.0,Tarumã,Oeste,Apartamentos,43.0,2.0,1.0,1.0
+3489,4470,160000.0,Nova Cidade,Norte,Casas,200.0,3.0,1.0,1.0
+3499,4481,1370000.0,Flores,Centro-Sul,Casas,250.0,4.0,4.0,5.0
+3508,4491,455000.0,Flores,Centro-Sul,Apartamentos,85.0,3.0,2.0,2.0
+3517,4500,40000.0,Ponta Negra,Oeste,Apartamentos,60.0,3.0,2.0,2.0
